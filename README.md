@@ -11,10 +11,8 @@ Table of Contents:
   - [📧 Contact](#-contact)
   - [📚 Resources](#-resources)
 
-
 ## ⚡️ Quick Start
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Fimrishit98%2Frp-nextjs-starter) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fimrishit98%2Frp-nextjs-starter)
 
 How to use:
 
@@ -50,7 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## 📧 Contact
 
-If you want to contact me you can reach me at [rishitpatel.com/contact](https://rishitpatel.com/contact).
+
 
 ## 📚 Resources
 
