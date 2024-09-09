@@ -21,7 +21,7 @@ export default function NavBar() {
                 height={40} // Adjust height as needed
                 className="mr-1" // Margin to the right of the logo
               />
-              <span className="text-2xl font-bold">HMS</span>
+              <span className="text-2xl font-bold">CareConnect</span>
             </Link>
           </div>
           <div className="-mr-2 flex lg:hidden">

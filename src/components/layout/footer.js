@@ -8,7 +8,7 @@ const Footer = () => {
       <Container className='flex justify-center items-center text-sm font-medium'>
         © {new Date().getFullYear()}&nbsp;
         <Link href={'/'} target='_blank' rel='noopener noreferrer'>
-          HMS
+          CareConnect
         </Link>
         . All Rights Reserved.
       </Container>
