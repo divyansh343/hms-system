@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/codemod": "^14.2.3",
+    "@next/codemod": "^15.0.3",
     "@radix-ui/react-slot": "^1.1.0",
     "@supabase/supabase-js": "^2.45.3",
     "class-variance-authority": "^0.7.0",
